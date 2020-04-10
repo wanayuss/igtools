@@ -2,10 +2,10 @@
 <br/>
 
 ## How to install (DEFAULT or BASIC USAGE)
-	* git clone https://github.com/ikiganteng/bot-igeh.git
+	* git clone https://github.com/wanayuss/bot-igeh.git
 	* cd bot-igeh
 	* unzip node_modules.zip
-	* npm install https://github.com/huttarichard/instagram-private-api
+	* npm install https://github.com/wanayuss/instagram-private-api
 	* npm audit fix
 	* ls
 	* Then select the tool you want to use!
@@ -32,10 +32,10 @@
 	* Open Termux and Wait for Automatic Install of Termux.
 	* pkg install git
 	* pkg install nodejs
-	* git clone https://github.com/ikiganteng/bot-igeh.git
+	* git clone https://github.com/wanayuss/bot-igeh.git
 	* cd bot-igeh
 	* unzip node_modules.zip
-	* npm install https://github.com/huttarichard/instagram-private-api
+	* npm install https://github.com/wanayuss/instagram-private-api
 	* npm audit fix
 	* ls
 	* Then select the tool you want to use!
